@@ -7,10 +7,10 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <h5>Download my Resume</h5>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address:
+    # <h5>Download my Resume</h5>
+    # <p>123 your address street</p>
+    # <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -22,7 +22,7 @@ Hey! I'm Parth, welcome to my small space on the internet.
 
 I'll be joining the MS in Robotics Systems Development (MRSD) at Robotics Institute, Carnegie Mellon University for it's 2023-2025 cohort.
 
-My interests revolves around ______.
+My interests revolves around making full-stack autonomy solutions that can be deployed in real-world settings. I plan on exploring the domains of Robotic Perception and SLAM in the coming years. 
 
 Before joining CMU, I worked as a Research Associate at Dr. K Madhava Krishna's Robotics Research Center @ IIIT-Hyderabad on developing a Autonomous Driving Stack and  Learning-based Planning. Prior to this, I worked as a Robotics Software Engineer at Rightbot, where we developed robots for nano-fulfillment warehouses.   
 
