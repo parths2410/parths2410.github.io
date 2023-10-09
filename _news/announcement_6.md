@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-CMU --- Here I come!! I am super excited to join the MS in Robotics Systems Development (MRSD) program at Robotics Institute, Carnegie Mellon University.
+Pittsburgh, here I come!! I am super excited to join the MS in Robotics Systems Development (MRSD) program at Robotics Institute, Carnegie Mellon University.
